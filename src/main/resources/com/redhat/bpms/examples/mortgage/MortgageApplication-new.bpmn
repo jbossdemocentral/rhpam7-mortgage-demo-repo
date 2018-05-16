@@ -47,7 +47,7 @@
   <bpmn2:itemDefinition id="__3FC2B32E-BF4E-4705-BDCE-278131C78F88_taskInputApplicationInputXItem" structureRef="com.redhat.bpms.examples.mortgage.Application"/>
   <bpmn2:itemDefinition id="__3FC2B32E-BF4E-4705-BDCE-278131C78F88_SkippableInputXItem" structureRef="Object"/>
   <bpmn2:itemDefinition id="__3FC2B32E-BF4E-4705-BDCE-278131C78F88_taskOutputApplicationOutputXItem" structureRef="com.redhat.bpms.examples.mortgage.Application"/>
-  <bpmn2:process id="com.redhat.bpms.examples.mortgage.MortgageApplication" drools:packageName="com.redhat.bpms.examples.mortgage" drools:version="1.0" name="MortgageApplication" isExecutable="true">
+  <bpmn2:process id="com.redhat.bpms.examples.mortgage.MortgageApplication-new" drools:packageName="com.redhat.bpms.examples.mortgage" drools:version="1.0" name="MortgageApplication" isExecutable="true">
     <bpmn2:property id="ssn" itemSubjectRef="_ssnItem"/>
     <bpmn2:property id="downPayment" itemSubjectRef="_downPaymentItem"/>
     <bpmn2:property id="application" itemSubjectRef="_applicationItem"/>
