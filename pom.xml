@@ -5,7 +5,7 @@
   <groupId>com.redhat.bpms.examples</groupId>
   <artifactId>mortgage</artifactId>
   <version>1</version>
-  <name>Mortgage Demo</name>
+  <name>Mortgage_Demo</name>
   <description>Mortgage application to demo basic features of BPMS 6</description>
   <repositories>
     <repository>
